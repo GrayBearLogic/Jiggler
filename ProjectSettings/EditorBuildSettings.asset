@@ -17,8 +17,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Serhiy.unity
     guid: 8437c0434ce701f88817bc152fc09bf8
-  - enabled: 1
-    path: Assets/Scenes/SerhiyMenu.unity
-    guid: 95a5bf40f64b9d1349f1b81c80f1edfb
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 511d18d31d233d64d8ba86d6b57d7c9b, type: 2}
