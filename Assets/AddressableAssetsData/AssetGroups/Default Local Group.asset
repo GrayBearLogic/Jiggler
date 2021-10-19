@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0b2f603b1bc85a14ab1cfcd939e050a7
+  m_SerializeEntries:
+  - m_GUID: 5555cdc072a64fdaf8df5a896bb6e1e2
+    m_Address: Assets/Levels/A01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level
+    m_MainAsset: {fileID: 8209584525382507008, guid: 5555cdc072a64fdaf8df5a896bb6e1e2, type: 3}
+    m_TargetAsset: {fileID: 8209584525382507008, guid: 5555cdc072a64fdaf8df5a896bb6e1e2, type: 3}
+  - m_GUID: 74830f081b8a070e999e88bfb4926020
+    m_Address: Assets/Levels/A02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level
+    m_MainAsset: {fileID: 8209584525382507008, guid: 74830f081b8a070e999e88bfb4926020, type: 3}
+    m_TargetAsset: {fileID: 8209584525382507008, guid: 74830f081b8a070e999e88bfb4926020, type: 3}
+  - m_GUID: 6c16289ff7450a24e99b13751f28e9c9
+    m_Address: Assets/Levels/A03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level
+    m_MainAsset: {fileID: 8209584525382507008, guid: 6c16289ff7450a24e99b13751f28e9c9, type: 3}
+    m_TargetAsset: {fileID: 8209584525382507008, guid: 6c16289ff7450a24e99b13751f28e9c9, type: 3}
+  - m_GUID: a09fdb241252a2d46a05f574699abd62
+    m_Address: Assets/Levels/A04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level
+    m_MainAsset: {fileID: 8209584525382507008, guid: a09fdb241252a2d46a05f574699abd62, type: 3}
+    m_TargetAsset: {fileID: 8209584525382507008, guid: a09fdb241252a2d46a05f574699abd62, type: 3}
+  - m_GUID: 5b8c337956b0792469fa7ddf862e035d
+    m_Address: Assets/Levels/A05.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level
+    m_MainAsset: {fileID: 8209584525382507008, guid: 5b8c337956b0792469fa7ddf862e035d, type: 3}
+    m_TargetAsset: {fileID: 8209584525382507008, guid: 5b8c337956b0792469fa7ddf862e035d, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8418f0cfe3a3a0449932912f266da0d9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d00aea378d4ab2748b25de3dfd9b216b, type: 2}
+    - {fileID: 11400000, guid: 7d1602ae15825d74f9f4517e4026d6ce, type: 2}
